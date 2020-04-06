@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class framebarang extends javax.swing.JFrame {
     private Statement stat;
-    String objKategori[]={"Sepatu Olahraga","Sepatu Sekolah","Sepatu Kerja","Sepatu Santai","Sepatu Main"}; 
+    String objKategori[]={"Gamer","Shelfie Expres","Photographer","Work and Busines","Study"}; 
 
 
     /** Creates new form framebarang */
@@ -92,7 +92,7 @@ public class framebarang extends javax.swing.JFrame {
             }
         });
 
-        cbkategori.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Sepatu Olahraga", "Sepatu Sekolah", "Sepatu Kerja", "Sepatu Santai", "Sepatu Main" }));
+        cbkategori.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Gamer", "Shelfie Expres", "Photographer", "Work and Busines", "Study" }));
         cbkategori.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cbkategoriActionPerformed(evt);
