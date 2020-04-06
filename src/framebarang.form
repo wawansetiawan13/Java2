@@ -214,11 +214,11 @@
       <Properties>
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
           <StringArray count="5">
-            <StringItem index="0" value="Gamer"/>
-            <StringItem index="1" value="Shelfie Expres"/>
-            <StringItem index="2" value="Photographer"/>
-            <StringItem index="3" value="Work and Busines"/>
-            <StringItem index="4" value="Study"/>
+            <StringItem index="0" value="Sepatu Kantor"/>
+            <StringItem index="1" value="Sepatu Sekolah"/>
+            <StringItem index="2" value="Sepatu Kuliah"/>
+            <StringItem index="3" value="Sepatu Main"/>
+            <StringItem index="4" value=" "/>
           </StringArray>
         </Property>
       </Properties>
